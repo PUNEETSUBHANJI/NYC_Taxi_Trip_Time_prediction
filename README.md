@@ -60,7 +60,7 @@
 
 * Exploratory Data Analysis is done on the dataset to get the insights from the information however the principal invalid qualities are taken care of. Likewise, Likewise, some hypothesis testing was additionally performed from the experiences from EDA.
 
-* After that using the Data visualisation analyzed the relationship between different variables with respect to Target variable to obtain and understand various factors. 
+* After that using the Data visualisation analyzed the relationship between different variables with respect to Target variable to obtain and understand various factors.
 
 * Performed the data analysis and prediction with machine learning algorithms taking into account previous trends to determine the insights about the trip duration.
 
